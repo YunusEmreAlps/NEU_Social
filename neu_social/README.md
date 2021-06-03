@@ -124,8 +124,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- SCREENSHOTS -->
 ## Screenshots
 
-Splash Screen               |  Welcome Page               | Welcome Page               |  Sign In 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/1.png?raw=true)|![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/2.png?raw=true)|![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/3.png?raw=true)|![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/4.png?raw=true)|
-
-![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/5.png?raw=true)
+Splash Screen               |  Welcome Page               | Welcome Page               |  Sign In | Sign Up
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/1.png?raw=true)|![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/2.png?raw=true)|![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/3.png?raw=true)|![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/4.png?raw=true)|![](https://github.com/YunusEmreAlps/NEU_Social/blob/master/neu_social/screens/5.png?raw=true)|
